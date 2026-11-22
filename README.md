@@ -10,13 +10,16 @@ Currently sharpening my **Python** skills through coursework and experimenting a
 
 * **Relational Databases & MySQL:** Studying database design, normalization, entity-relationship modeling, and writing structured SQL queries.
 
-### Projects & Exploration
+#### [Hope, Inc. ERP System](https://github.com/ashxr21/wonderpets)
+**Role: Scrum Master & Backend Developer**
 
-####  [Hope, Inc. ERP System](https://github.com/ashxr21/wonderpets)
-A web-based Enterprise Resource Planning system managing **customers, products, human resources, sales, and reports** in one dashboard.
-* **Data & Access Focus:** Designed around structured relational data in **Supabase (PostgreSQL)** and role-based access control (`Superadmin`, `Admin`, `User`).
-* **Stack:** **Vite + React + Tailwind CSS** paired with a **Supabase** cloud backend for maintainability and scalability.
-* **AI-Assisted Workflow:** Built using a **Human-in-the-Loop** process with **Claude (Anthropic)** and **GitHub Copilot** for coding and documentation support under team review and direction.
+A team-built ERP web app (6 members) managing **customers, products, HR, sales and reports** in one dashboard.
+* **Scrum Master:** repo and branch setup, pull request reviews, QA coordination, and the final project report.
+* **Backend:** Supabase (PostgreSQL) setup, connecting the React app through the Supabase client and environment variables, Row-Level Security policies, and Supabase Auth flows (sign-up, email verification, password reset).
+* **Stack:** Vite, React and Tailwind CSS on the front end, with a Supabase cloud backend.
+* **Access control:** role-based access (`Superadmin`, `Admin`, `User`), with only verified emails allowed to register and only a Superadmin able to promote roles.
+* **Data design:** soft delete with an audit trail through database triggers, and live data read from Supabase views.
+* **AI-assisted:** built with a human-in-the-loop process using Claude (Anthropic) and GitHub Copilot, with all output reviewed and tested by the team.
 
 ####  [Python Practice & Coursework](https://github.com/ashxr21/Practice-Python)
 A hands-on repository tracking my Python coursework and mini experiments—ranging from core programming logic and data handling to small automation and problem-solving scripts.
