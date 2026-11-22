@@ -12,7 +12,7 @@ Currently sharpening my **Python** skills through coursework and experimenting a
 
 ### Projects & Exploration
 
-####  [Hope, Inc. ERP System](https://github.com/ashxr21/wonderpets/hope-erp)
+####  [Hope, Inc. ERP System](https://github.com/ashxr21/wonderpets)
 A web-based Enterprise Resource Planning system managing **customers, products, human resources, sales, and reports** in one dashboard.
 * **Data & Access Focus:** Designed around structured relational data in **Supabase (PostgreSQL)** and role-based access control (`Superadmin`, `Admin`, `User`).
 * **Stack:** **Vite + React + Tailwind CSS** paired with a **Supabase** cloud backend for maintainability and scalability.
