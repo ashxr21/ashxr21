@@ -1,14 +1,16 @@
 # Hi there, I'm Asher Sapurna 👋
 
-I'm a **Sophomore Computer Science** exploring **Cloud Engineering, Data Analysis, and Cybersecurity**. While I build full-stack academic projects when needed, my main curiosity lies in how systems scale, how data tells stories, and how infrastructure stays secure.
+A Sophomore **Computer Science** student with a flair for coding and database management. My journey in tech started when I entered the BSCS program, where I discovered that I thrive on tackling complex problems and crafting clean, reliable solutions.
 
-Currently sharpening my **Python** skills through coursework and experimenting across cloud, data, and security fundamentals.
+Today, I'm actively exploring **Cloud Engineering, Data Analysis, and Cybersecurity**. While I build full-stack academic projects when needed, my main curiosity lies in how systems scale, how data tells stories, and how infrastructure stays secure. Right now, I'm sharpening my **Python** skills through coursework while experimenting across cloud, data, and security fundamentals.
+
 
 ---
 
 ###  Current Academic Focus
 
 * **Relational Databases & MySQL:** Studying database design, normalization, entity-relationship modeling, and writing structured SQL queries.
+* **Data Analysis & Reporting:** Designing structured business intelligence reports and transforming database queries into visual insights using **Jaspersoft Studio**.
 
 #### [Hope, Inc. ERP System](https://github.com/ashxr21/wonderpets)
 **Role: Scrum Master & Backend Developer**
