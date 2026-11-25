@@ -26,15 +26,17 @@ A hands-on repository tracking my Python coursework and mini experiments—rangi
 
 ###  Certifications
 
-* **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** — *Oracle*
-* **Oracle Cloud Infrastructure (OCI) Foundations Associate** — *Oracle*
-* **Oracle AI Database Certified Foundations** — *Oracle*
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b1a35c2c00694a62b2f6fd8c1baa524f)
+* [Oracle Cloud Infrastructure Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8BA2B4F7C1A356E8AC604828700C8F2108EAF93CE0A11F7DADD4DEDF488AEB64)
+* [Oracle AI Database Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=97B1905AD8A76AE670A61E42AA42AC0321AB7A546ADD71D2F7646A6321DC3333)
+* [Oracle Cloud Infrastructure Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=597F7D477FE849922E4DDF32E00E7F8BEBEA58B70373EC4D8325EEF84C86E33C)
 
 **Languages & Databases:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Cloud & Web Stack:**
@@ -44,6 +46,13 @@ A hands-on repository tracking my Python coursework and mini experiments—rangi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**Modeling, Reporting & IDEs:**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F04723?style=for-the-badge&logo=lucid&logoColor=white)
+![Jaspersoft Studio](https://img.shields.io/badge/Jaspersoft%20Studio-0075C9?style=for-the-badge)
 
 **Workflow & AI Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
