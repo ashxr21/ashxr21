@@ -23,6 +23,12 @@ A team-built ERP web app (6 members) managing **customers, products, HR, sales a
 * **Data design:** soft delete with an audit trail through database triggers, and live data read from Supabase views.
 * **AI-assisted:** built with a human-in-the-loop process using Claude (Anthropic) and GitHub Copilot, with all output reviewed and tested by the team.
 
+#### [Frontend Mini-Projects Collection](https://github.com/ashxr21/Front-End-Projects)
+A main branch with multi-folder repository of lightweight, framework-free web applications built with **HTML5**, **CSS3**, and **Vanilla JavaScript (ES6+)**:
+* **Spendly — Expense Tracker** (`Spendly` folder): Real-time personal finance dashboard with income/expense logging, category spending breakdowns, and monthly budget tracking.
+* **CityBank — Digital Banking UI** (`City-Bank` folder): Interactive banking simulation featuring live balance updates, deposit/withdrawal validation, and transaction logs.
+* **Omni Web Calculator** (`Omni-Calc` folder): Arithmetic calculator supporting chained operations, decimals, and input edge-case protection.
+
 ####  [Python Practice & Coursework](https://github.com/ashxr21/Practice-Python)
 A hands-on repository tracking my Python coursework and mini experiments, ranging from core programming logic and data handling to small automation and problem-solving scripts.
 
