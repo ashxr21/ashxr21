@@ -24,7 +24,7 @@ A team-built ERP web app (6 members) managing **customers, products, HR, sales a
 * **AI-assisted:** built with a human-in-the-loop process using Claude (Anthropic) and GitHub Copilot, with all output reviewed and tested by the team.
 
 ####  [Python Practice & Coursework](https://github.com/ashxr21/Practice-Python)
-A hands-on repository tracking my Python coursework and mini experiments—ranging from core programming logic and data handling to small automation and problem-solving scripts.
+A hands-on repository tracking my Python coursework and mini experiments, ranging from core programming logic and data handling to small automation and problem-solving scripts.
 
 ###  Certifications
 
